@@ -1,17 +1,17 @@
-content {max-width:1600px ;}
-content {margin: 0 auto;}
+#content {max-width:1600px ;}
+#content {margin: 0 auto;}
 
-nav a {max-width: 1600px;margin: 0 auto;text-decoration: none;text-align: center;} 
+#nav a {max-width: 1600px;margin: 0 auto;text-decoration: none;text-align: center;} 
 
-hero-msg h1 {max-width: 1600px;margin: 0 auto;text-align: center;}
+#hero-msg h1 {max-width: 1600px;margin: 0 auto;text-align: center;}
 
-hero-msg h4 {text-align: center;max-width: 1600px;margin: 0 auto;}
+#hero-msg h4 {text-align: center;max-width: 1600px;margin: 0 auto;}
 
 .button-box {text-align: center;max-width: 1600px;margin: 0 auto;}
 
 main section {text-align: center;max-width: 1600px; margin: 0 auto;}
 
-background {height: 725px;}
+#background {height: 725px;}
 
 body {background-color:#14FFF7;}
 
@@ -28,7 +28,7 @@ nav a :hover {background-color: black; color: rgb(188, 183, 183)}
 
 .join:hover {background-color: white; color:black}
 
-background {background-color: aqua;}
+#background {background-color: aqua;}
 
 .msg {background-color:aquamarine;}
 
