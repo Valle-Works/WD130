@@ -30,10 +30,10 @@ nav a :hover {background-color: black; color: rgb(188, 183, 183)}
 .book {background-color: rgb(77, 183, 222); color:black;text-decoration: none;font-family: Arial, Helvetica, sans-serif; font-size: 18px;padding: 15px 35px;margin-top: 50px;}
 
 .join {background-color: rgb(12, 135, 149); color:black; text-decoration: none;padding:15px 35px;margin-top: 50px;}
-.book:hover {background-color: white; color:black}
+.book:hover {background-color: white; color:black;border-radius: 5px;}
 
 .join:hover {background-color: white; color:black}
-.join{font-family: serif; font-size: 18px;}
+.join{font-family: serif; font-size: 18px;border-radius: 5px;}
 background {background-color: aqua;}
 
 .msg {background-color:aquamarine; line-height: 1.5em;}
@@ -48,7 +48,7 @@ h4{color:black}
 
 .msg p {color:black;padding-bottom: 15px;}
 
-footer{color:black;padding: 25px 50px;}
+footer{color:black;padding: 25px 50px;margin-top: 200px;}
 
 footer a {color:black}
 
@@ -69,3 +69,6 @@ div-social {padding-top: 15px;}
 .rivers-card{margin: 200px 0;}
 .camping-card{margin: 200px 0;}
 .rapids-card{margin: 200px 0;}
+.card-image{border: 10px solid #14FFF7;}
+
+main section img{box-sizing: border-box;}
