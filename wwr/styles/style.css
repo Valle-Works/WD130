@@ -27,9 +27,9 @@ h2 {margin: 0;}
 nav a {color: white}
 nav a :hover {background-color: black; color: rgb(188, 183, 183)}
 
-.book {background-color: rgb(77, 183, 222); color:black;text-decoration: none;font-family: Arial, Helvetica, sans-serif; font-size: 18px;padding: 15px 35px; }
+.book {background-color: rgb(77, 183, 222); color:black;text-decoration: none;font-family: Arial, Helvetica, sans-serif; font-size: 18px;padding: 15px 35px;margin-top: 50px;}
 
-.join {background-color: rgb(12, 135, 149); color:black; text-decoration: none;padding:15px 35px;}
+.join {background-color: rgb(12, 135, 149); color:black; text-decoration: none;padding:15px 35px;margin-top: 50px;}
 .book:hover {background-color: white; color:black}
 
 .join:hover {background-color: white; color:black}
@@ -62,7 +62,10 @@ heroimg {width: 100px;}
 .icon {width:80px;padding-top: 10px;}
 
 .home-title{font-family:"Bitter,PT-Serif";
-font-size: 2em;}
+font-size: 2em; margin-top: 10px;}
 
 #logo_link{padding-top: 5px;} 
 div-social {padding-top: 15px;}
+.rivers-card{margin: 200px 0;}
+.camping-card{margin: 200px 0;}
+.rapids-card{margin: 200px 0;}
