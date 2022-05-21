@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@300&family=PT+Serif&display=swap'); @import url('https://fonts.googleapis.com/css2?family=Bitter:wght@300&family=PT+Serif&display=swap');
+
+
 content {max-width:1600px ;}
 content {margin: 0 auto;}
 
@@ -13,25 +16,30 @@ main section {text-align: center;max-width: 1600px; margin: 0 auto;}
 
 background {height: 725px;}
 
-body {background-color:#14FFF7;}
+body {background-color:#14FFF7; font-family:Arial, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;}
 
 header {background-color: #3C493F;}
 
+h2 {margin: 0;}
 nav a {color: white}
 nav a :hover {background-color: black; color: rgb(188, 183, 183)}
 
 .book {background-color: rgb(77, 183, 222); color:black}
 .book {text-decoration: none;}
+.book {font-family: Arial, Helvetica, sans-serif; font-size: 18px; }
 
 .join {background-color: rgb(12, 135, 149); color:black; text-decoration: none;}
 .book:hover {background-color: white; color:black}
 
 .join:hover {background-color: white; color:black}
-
+.join{font-family: serif; font-size: 18px;}
 background {background-color: aqua;}
 
-.msg {background-color:aquamarine;}
-
+.msg {background-color:aquamarine; line-height: 1.5em;}
+.msg {font-family: Arial, Helvetica, sans-serif; font-size:.8em;}
 footer {background-color: rgb(3, 120, 173);}
 
 .home-title {color:black}
@@ -54,4 +62,7 @@ footer a {text-decoration: none;}
 heroimg {width: 100px;}
 
 .icon {width:80px}
+
+.home-title{font-family:"Bitter,PT-Serif";
+font-size: 2em;}
 
