@@ -4,7 +4,7 @@
 content {max-width:1600px ;}
 content {margin: 0 auto;}
 
-nav a {max-width: 1600px;margin: 0 auto;text-decoration: none;text-align: center;} 
+nav a {max-width: 1600px;margin: 0 auto;text-decoration: none;text-align: center;padding: 35px;} 
 
 hero-msg h1 {max-width: 1600px;margin: 0 auto;text-align: center;}
 
@@ -27,11 +27,9 @@ h2 {margin: 0;}
 nav a {color: white}
 nav a :hover {background-color: black; color: rgb(188, 183, 183)}
 
-.book {background-color: rgb(77, 183, 222); color:black}
-.book {text-decoration: none;}
-.book {font-family: Arial, Helvetica, sans-serif; font-size: 18px; }
+.book {background-color: rgb(77, 183, 222); color:black;text-decoration: none;font-family: Arial, Helvetica, sans-serif; font-size: 18px;padding: 15px 35px; }
 
-.join {background-color: rgb(12, 135, 149); color:black; text-decoration: none;}
+.join {background-color: rgb(12, 135, 149); color:black; text-decoration: none;padding:15px 35px;}
 .book:hover {background-color: white; color:black}
 
 .join:hover {background-color: white; color:black}
@@ -39,7 +37,7 @@ nav a :hover {background-color: black; color: rgb(188, 183, 183)}
 background {background-color: aqua;}
 
 .msg {background-color:aquamarine; line-height: 1.5em;}
-.msg {font-family: Arial, Helvetica, sans-serif; font-size:.8em;}
+.msg {font-family: Arial, Helvetica, sans-serif; font-size:.8em;padding: 35px;}
 footer {background-color: rgb(3, 120, 173);}
 
 .home-title {color:black}
@@ -48,9 +46,9 @@ h4{color:black}
 
 .msg h2{color:black}
 
-.msg p {color:black}
+.msg p {color:black;padding-bottom: 15px;}
 
-footer{color:black}
+footer{color:black;padding: 25px 50px;}
 
 footer a {color:black}
 
@@ -61,8 +59,10 @@ footer a {text-decoration: none;}
 
 heroimg {width: 100px;}
 
-.icon {width:80px}
+.icon {width:80px;padding-top: 10px;}
 
 .home-title{font-family:"Bitter,PT-Serif";
 font-size: 2em;}
 
+#logo_link{padding-top: 5px;} 
+div-social {padding-top: 15px;}
