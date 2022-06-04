@@ -71,7 +71,7 @@
   /* This is the parent of the activity 3 boxes. */
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-column-gap: 80px;
+  grid-column-gap: 
  
 }
 .red3 {
@@ -171,7 +171,7 @@
   height:600px;
   display:grid;
   width:600px;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: repeat(6, 1fr)
 }
 .red6 {
   width: 100%; 
