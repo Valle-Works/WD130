@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    z-index: 1;
+    position: absolute;
+    left: 44.5%;
+}
+
+#river1 > img{
+    width: 100%;
+    margin-top: -210px;
+    color: aqua;
+
+
+}
+
+nav{
+    z-index: 1;
+}
+#logo_link{
+    z-index: 1;
+}
+
+#river1{
+    color: white;
+
+}
+
+.allp{
+    padding: 10px;
+    margin-bottom: -200px;
+}
