@@ -10,11 +10,14 @@
 
 h1{
     text-align: center;
+    color: white;
 }
 
 .div1 p{
     line-height: 50px;
     font-size: 25px;
+    color: white;
+
 }
 
 #div2 {
@@ -83,10 +86,11 @@ body{
     margin: 0;
     padding: 0;
     font-size: 22px;
+    background-color: #6610F2;
 }
 
 footer{
-    background-color:pink;
+    background-color:  black;
     padding: 25px 50px;
     margin-top: 100px;
     display: flex;
@@ -113,14 +117,14 @@ header{
     display: grid;
     grid-template-columns: 150px auto; 
     align-items: center;
-    background-color: pink;
+    background-color: black;
     
 }
 
 nav a{
     text-align: center;
     text-decoration: none;
-    color: black;
+    color:  gold;
 }
 
 nav{
@@ -147,4 +151,7 @@ nav a:hover{
     
     padding: 10px;
     margin-top: 5px;
+}
+footer h2{
+    color: gold;
 }
