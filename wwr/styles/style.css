@@ -193,7 +193,7 @@ h1.home-title {
  }
 
  .card-img:hover {
-     opacity: .6;
+     opacity: .3;
      transform: scale(1.1);
 
  }
